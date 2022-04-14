@@ -3,6 +3,10 @@ package com.company;
 import java.awt.*;
 import java.util.Random;
 
+/**
+ * @author mcaylak
+ * @Date 4/15/2022
+ */
 public class Main {
 
     public static void main(String[] args) {
